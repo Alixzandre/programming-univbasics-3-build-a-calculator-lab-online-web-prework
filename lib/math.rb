@@ -9,8 +9,8 @@ return diference
 end
 
 def division(num1, num2)
-qoutient = num2/num1
-return product
+qoutient = num1/num2
+return qoutient
 end
 
 def multiplication(num1, num2)
