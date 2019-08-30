@@ -24,6 +24,6 @@ return m
 end
 
 def square_root(num)
-sR=
+sR=square_root(num)
 return sR
 end
