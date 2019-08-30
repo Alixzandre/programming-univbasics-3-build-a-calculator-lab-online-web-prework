@@ -4,7 +4,7 @@ return sum
 end
 
 def subtraction(num1, num2)
-diference =num2-num1
+diference =num1-num2
 return diference
 end
 
@@ -24,6 +24,6 @@ return m
 end
 
 def square_root(num)
-sR=sqrt(num)
+sR=num
 return sR
 end
